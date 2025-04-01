@@ -19,7 +19,7 @@ End Date: April 25, 2025 (Finalization & Submission)
 
 - Replicate heart rate anomaly findings (e.g., patients with 3 beats/sec).
 - Identify inconsistencies and begin drafting notes on initial findings.
-- 
+
 Checkpoint: First EDA insights documented; preliminary findings on heart rate and admission time quirks.
 
 <strong>Phase 2: Deeper Analysis & Replicating Key Findings (March 28 – April 7)</strong>
