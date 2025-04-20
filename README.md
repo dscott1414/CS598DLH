@@ -1,5 +1,5 @@
-# single_file_port_to_pyhealth – Quick‑Start Guide
-A fully‑worked, single‑file notebook (`single_file_port_to_pyhealth.py`) that:
+# Running the code - Quick‑Start Guide
+A fully‑worked, single‑file notebook that:
 
 * connects to a **local PostgreSQL copy of the MIMIC‑III v1.4** database,
 * recreates several analyses/figures from **Boag et al., 2022 (“EHR Safari: Data is Contextual”)**, and  
